@@ -1,0 +1,15 @@
+[submodule "edcat-core"]
+	path = edcat-core
+	url = git@github.com:tenforce/edcat-core.git
+[submodule "example-plugins"]
+	path = example-plugins
+	url = git@github.com:tenforce/edcat-example-plugins.git
+[submodule "model-validation-plugin"]
+	path = model-validation-plugin
+	url = git@github.com:tenforce/edcat-model-validation-plugin.git
+[submodule "distribution-accessibility-validation-plugin"]
+	path = distribution-accessibility-validation-plugin
+	url = git@github.com:tenforce/edcat-distribution-accessibility-validation-plugin.git
+[submodule "attached-triple-insertion-plugin"]
+	path = attached-triple-insertion-plugin
+	url = git@github.com:tenforce/edcat-attached-triple-insertion-plugin.git
