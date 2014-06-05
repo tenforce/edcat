@@ -8,7 +8,7 @@
   <name>LOD2 wp8 EDCAT</name>
 
   <modules>
-    <module>edcat-core</module>
+    <module>base</module>
     <module>example-plugins</module>
     <module>attached-triple-insertion-plugin</module>
     <module>distribution-accessibility-validation-plugin</module>
