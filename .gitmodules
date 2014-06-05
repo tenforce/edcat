@@ -1,6 +1,6 @@
-[submodule "edcat-core"]
-	path = edcat-core
-	url = git@github.com:tenforce/edcat-core.git
+[submodule "base"]
+	path = base
+	url = git@github.com:tenforce/edcat-base.git
 [submodule "example-plugins"]
 	path = example-plugins
 	url = git@github.com:tenforce/edcat-example-plugins.git
