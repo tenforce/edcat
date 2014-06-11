@@ -8,11 +8,11 @@ Installation Guide
 
 ### Requirements
 
-Java application server such as tomcat
-Java 7
-Virtuoso RDF store (recommended)
-Maven
-Setup
+* Java application server such as tomcat
+* Java 7
+* Virtuoso RDF store (recommended)
+* Maven
+* Setup
 
 ### Installation
 
@@ -25,7 +25,7 @@ First make sure all the requirements are installed:
 Build the latest edcat version from source using the following commands:
 
     $ wget https://github.com/tenforce/edcat-core/archive/master.tar.gz
-    $ tar xvzf edcat-core-master.tar.gz
+    $ tar xvzf master.tar.gz
     $ cd edcat-core-master
     $ mvn -Dmaven.test.skip=true clean package
     $ mv core/target/edcat-*.war edcat.war
